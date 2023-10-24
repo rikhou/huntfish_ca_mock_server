@@ -1,0 +1,5 @@
+{
+  "v1/connect/token": "/token",
+  "v1/Customers/links": "/links",
+  "*/licenses": "/licenses"
+}

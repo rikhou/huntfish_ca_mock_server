@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "dev": "json-server --watch db.json --port 3000 --routes routes.json"
+  }
+}
